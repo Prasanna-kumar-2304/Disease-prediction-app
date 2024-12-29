@@ -58,23 +58,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn xgboost streamlit
 
 ---
 
-## How to Run
-
-1. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
-
-3. After running the above command, a browser window will open with the **Diabetes Prediction App** interface. You can then enter different health parameters and get the diabetes prediction.
-
----
 
 ## Results
 
@@ -85,11 +68,6 @@ streamlit run app.py
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 ## Acknowledgments
 
