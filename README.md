@@ -41,12 +41,6 @@ To run this project locally, you'll need to install the following libraries:
 - **xgboost**: For training the XGBoost model.
 - **streamlit**: For the app's frontend interface.
 
-You can install these libraries using **pip**:
-
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn xgboost streamlit
-```
-
 ---
 
 ## Files
